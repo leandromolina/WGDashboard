@@ -1,6 +1,7 @@
-Flask == 2.0.1
+Flask == 2.2.2
 ifcfg == v0.21
 icmplib == v2.1.1
 flask-qrcode == v3.0.0
+Werkzeug == 2.3.7
 gunicorn
 certbot
